@@ -3,7 +3,7 @@
 **Name:** [Emre Akın]  
 **Email:** [reach.emreakin@gmail.com]  
 **LinkedIn:** [linkedin.com/in/emreakin-] _(optional)_  
-**Submission Date:** [YYYY-MM-DD]
+**Submission Date:** [2025-11-09]
 
 ---
 
@@ -11,15 +11,15 @@
 
 Please confirm you've included all required items:
 
-- [ ] **Report** (PDF, max 5 pages)
-  - [ ] Section 1: Incident Analysis
-  - [ ] Section 2: Architecture Review
-  - [ ] Section 3: Response & Remediation
+- [✔️] **Report** (PDF, max 5 pages)
+  - [✔️] Section 1: Incident Analysis
+  - [✔️] Section 2: Architecture Review
+  - [✔️] Section 3: Response & Remediation
   
-- [ ] **Video Presentation** (10-15 minutes)
-  - [ ] Link provided in `video_link.md`
-  - [ ] Video is accessible (tested in incognito)
-  - [ ] Duration is within guidelines
+- [✔️] **Video Presentation** (10-15 minutes)
+  - [✔️] Link provided in `https://www.youtube.com/watch?v=_Kl92HUTJvI&t=187s`
+  - [✔️] Video is accessible (tested in incognito)
+  - [✔️] Duration is within guidelines
 
 - [ ] **File Structure**
 ```
