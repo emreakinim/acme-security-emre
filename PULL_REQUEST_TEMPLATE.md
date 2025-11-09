@@ -2,7 +2,7 @@
 
 **Name:** [Emre Akın]  
 **Email:** [reach.emreakin@gmail.com]  
-**LinkedIn:** [linkedin.com/in/emreakin-] _(optional)_  
+**LinkedIn:** [linkedin.com/in/emreakin-]   
 **Submission Date:** [2025-11-09]
 
 ---
