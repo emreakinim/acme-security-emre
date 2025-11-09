@@ -24,8 +24,8 @@ Please confirm you've included all required items:
 - [ ] **File Structure**
 ```
   submissions/firstname-lastname/
-  ├── report.pdf
-  ├── video_link.md
+  ├── https://docs.google.com/document/d/1vj-4CYhMBXoDTcG9Zm6rm0AWLz-uyjBZdB7_HBQ1TlA/edit?usp=sharing
+  ├── https://www.youtube.com/watch?v=_Kl92HUTJvI&t=187s
   └── notes.md (optional)
 ```
 
