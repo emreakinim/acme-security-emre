@@ -1,7 +1,7 @@
 ## 📋 Submission Information
 
-**Name:** [Your Full Name]  
-**Email:** [your.email@example.com]  
+**Name:** [Emre Akın]  
+**Email:** [reach.emreakin@gmail.com]  
 **LinkedIn:** [linkedin.com/in/yourprofile] _(optional)_  
 **Submission Date:** [YYYY-MM-DD]
 
