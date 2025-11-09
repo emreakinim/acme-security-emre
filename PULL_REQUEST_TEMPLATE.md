@@ -17,7 +17,7 @@ Please confirm you've included all required items:
   - [✔️] Section 3: Response & Remediation
   
 - [✔️] **Video Presentation** (10-15 minutes)
-  - [✔️] Link provided in `https://www.youtube.com/watch?v=_Kl92HUTJvI&t=187s`
+  - [✔️] Link provided in 
   - [✔️] Video is accessible (tested in incognito)
   - [✔️] Duration is within guidelines
 
