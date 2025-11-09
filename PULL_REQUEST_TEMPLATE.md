@@ -51,7 +51,7 @@ Please confirm you've included all required items:
 
 _Briefly describe your approach and key findings:_
 
-[Through in depth research, i learned to read logs. I examined response codes, HTTP methods and types of attacks, and designed strategies for how to handle them.]
+[Early log inspection suggests a brute force attack, while i specifically observed an enumeration attack from IP 203.0.113.45. Additionally, a phishing attempt was found in email logs, and the WAF logs confirmed a SQL injection attempt.]
 
 ---
 
@@ -63,10 +63,10 @@ _Briefly describe your approach and key findings:_
 3. Phishing Attack and SQL Injection
 
 **Most critical vulnerability:**
-IDOR ( Insecure Direct Object Reference )
+IDOR ( Insecure Direct Object Reference ) 
 
 **Top recommendation:**
-I would design something that would prevent too many requests from coming over the same IP Address.
+To detech IDOR, endpoint-based testing tools (Burp Suite, OWASP ZAP) can be used, And I would design something that would prevent too many requests from coming over the same IP Address.
 
 ---
 
