@@ -36,9 +36,9 @@ Please confirm you've included all required items:
 **Time spent on this lab:** Approximately  hours
 
 **Tools used:**
-- Log analysis: 5 hours
+- Log analysis: 6 hours
 - Diagrams: 2 hours
-- Video recording: 3 hours
+- Video recording: 4 hours
 
 **Confidence level:**
 - [✔️] Very confident in my analysis
