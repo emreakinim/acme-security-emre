@@ -33,15 +33,15 @@ Please confirm you've included all required items:
 
 ## 📊 Self-Assessment
 
-**Time spent on this lab:** Approximately ___ hours
+**Time spent on this lab:** Approximately  hours
 
 **Tools used:**
-- Log analysis: ___________
-- Diagrams: ___________
-- Video recording: ___________
+- Log analysis: 5 hours
+- Diagrams: 2 hours
+- Video recording: 3 hours
 
 **Confidence level:**
-- [ ] Very confident in my analysis
+- [✔️] Very confident in my analysis
 - [ ] Confident but some uncertainties
 - [ ] Attempted my best with available knowledge
 
@@ -51,35 +51,35 @@ Please confirm you've included all required items:
 
 _Briefly describe your approach and key findings:_
 
-[Write here]
+[Through in depth research, i learned to read logs. I examined response codes, HTTP methods and types of attacks, and designed strategies for how to handle them.]
 
 ---
 
 ## 🔍 Key Findings Highlight
 
 **Main attack vectors identified:**
-1. ___________
-2. ___________
-3. ___________
+1. Brute-Force Attack
+2. Enumeration Attack
+3. Phishing Attack and SQL Injection
 
 **Most critical vulnerability:**
-___________
+IDOR ( Insecure Direct Object Reference )
 
 **Top recommendation:**
-___________
+I would design something that would prevent too many requests from coming over the same IP Address.
 
 ---
 
 ## 💭 Challenges & Learnings
 
 **What was most challenging?**
-[Write here]
+[Investigating too many logs with an entry level knowledge was tough]
 
 **What did you learn?**
-[Write here]
+[I learned reading logs and analyzing them and providing some solutions.]
 
 **What would you do differently?**
-[Write here]
+[Nothing, i spent too much time working on those logs and i think i've come a long way.]
 
 ---
 
@@ -87,21 +87,21 @@ ___________
 
 Any context, assumptions, or additional information you'd like evaluators to know:
 
-[Write here]
+[This project helped me a lot in learning how to read logs, thank you.]
 
 ---
 
 ## ⚖️ Declaration
 
 I declare that:
-- [ ] This work is entirely my own
-- [ ] I have not copied from other submissions or answer keys
-- [ ] I have not modified the provided log files
-- [ ] All sources and tools are properly attributed
-- [ ] I understand plagiarism results in disqualification
+- [✅️] This work is entirely my own
+- [✅️] I have not copied from other submissions or answer keys
+- [✅️] I have not modified the provided log files
+- [✅️] All sources and tools are properly attributed
+- [✅️] I understand plagiarism results in disqualification
 
-**Signature:** [Your Name]  
-**Date:** [YYYY-MM-DD]
+**Signature:** [Emre Akın]  
+**Date:** [2025-11-09]
 
 ---
 
